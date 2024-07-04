@@ -43,6 +43,7 @@ You can also use the model with your own games, to do this you need:
 - Finally you must run the main from where it says "To use the model run from here" and change the path to your file and put your username in the create_pred_vector function
 
 (You must have sentence_transformers and python-chess installed in a python environment)
+(We do not recommend using too many games, since the model takes approximately 1 minute per 100 games , at least for us)
 
 ## Contributors
 
