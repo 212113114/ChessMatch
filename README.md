@@ -55,7 +55,7 @@ You can also use the model with your own games, to do this you need:
 
 This project is available under a dual license:
 
--MIT License (for non-commercial use): See the LICENSE file for details.
+-MIT License (for non-commercial use): See the [LICENSE](LICENSE.txt) file for details.
 
 -Commercial License (for commercial use): If you wish to use this software for commercial purposes, please contact the authors to obtain a commercial license.
 
