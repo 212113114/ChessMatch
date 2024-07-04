@@ -2,5 +2,7 @@ This repository contains a chess player classification model created by Benjamí
 
 It started as a simple final project, but then it became something more personal.
 
-Github did not allow me to upload all the necessary files, the missing files can be found at: https://drive.google.com/drive/folders/1ihB4ttz64WtbODxvQUZ55f21bVLH3OUe?usp=drive_link.
+Github did not allow us to upload all the necessary files, the missing files can be found at: https://drive.google.com/drive/folders/1ihB4ttz64WtbODxvQUZ55f21bVLH3OUe?usp=drive_link.
+
+If you want to use this model on your platform (such as lichess or chess.com) we will be happy to collaborate.
 
