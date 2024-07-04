@@ -50,7 +50,7 @@ You can also use the model with your own games, to do this you need:
 
 [Eduardo Álvarez](https://github.com/Aledgit)
 
-##License
+## License
 
 This project is available under a dual license:
 
